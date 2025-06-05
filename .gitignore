@@ -17,7 +17,7 @@ _ReSharper*/
 *.DotSettings.user
 
 # Auto-generated files
-Generated\ Files/
+Generated Files/
 *.generated.cs
 
 # Logs
